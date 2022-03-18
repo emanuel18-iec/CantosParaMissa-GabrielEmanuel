@@ -1,0 +1,42 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: linear-gradient(to top, #6ff7e8, #1f7ea1, no-repeat);
+}
+
+h1{
+    text-align: center;
+}
+#textH1-top{
+    font-size: 28px;
+}
+
+#textH1-bottom{
+    font-size: 21px;
+}
+
+nav {
+    background: -webkit-linear-gradient(45deg, #243748 0%, #254f74 45%, #327ecf 100%);
+    height: 150px;
+}
+.imgLogo{
+    margin: 10px 20px 0px 20px;
+    height: 130px;
+}
+
+.imgLogo-cont{
+    float:left;
+}
+
+.Text-Nav{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
